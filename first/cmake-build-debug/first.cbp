@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="first"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/src/c++/first/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/setup/saas/c++/mingw64/bin/mingw32-make.exe -f &quot;D:/src/c++/first/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/setup/saas/c++/mingw64/bin/mingw32-make.exe -f &quot;D:/src/c++/first/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/setup/saas/c++/mingw64/bin/mingw32-make.exe -f &quot;D:/src/c++/first/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/setup/saas/c++/mingw64/bin/mingw32-make.exe -f &quot;D:/src/c++/first/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="first">
+				<Option output="D:/src/c++/first/cmake-build-debug/first.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/src/c++/first/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/setup/saas/c++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="D:/setup/saas/c++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/setup/saas/c++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="D:/setup/saas/c++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="D:/setup/saas/c++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="D:/setup/saas/c++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/setup/saas/c++/mingw64/bin/mingw32-make.exe -f &quot;D:/src/c++/first/cmake-build-debug/Makefile&quot;  VERBOSE=1 first"/>
+					<CompileFile command="D:/setup/saas/c++/mingw64/bin/mingw32-make.exe -f &quot;D:/src/c++/first/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/setup/saas/c++/mingw64/bin/mingw32-make.exe -f &quot;D:/src/c++/first/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/setup/saas/c++/mingw64/bin/mingw32-make.exe -f &quot;D:/src/c++/first/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="first/fast">
+				<Option output="D:/src/c++/first/cmake-build-debug/first.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/src/c++/first/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/setup/saas/c++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="D:/setup/saas/c++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/setup/saas/c++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="D:/setup/saas/c++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include"/>
+					<Add directory="D:/setup/saas/c++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="D:/setup/saas/c++/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/setup/saas/c++/mingw64/bin/mingw32-make.exe -f &quot;D:/src/c++/first/cmake-build-debug/Makefile&quot;  VERBOSE=1 first/fast"/>
+					<CompileFile command="D:/setup/saas/c++/mingw64/bin/mingw32-make.exe -f &quot;D:/src/c++/first/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/setup/saas/c++/mingw64/bin/mingw32-make.exe -f &quot;D:/src/c++/first/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/setup/saas/c++/mingw64/bin/mingw32-make.exe -f &quot;D:/src/c++/first/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/src/c++/first/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/setup/saas/c++/mingw64/bin/mingw32-make.exe -f &quot;D:/src/c++/first/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/setup/saas/c++/mingw64/bin/mingw32-make.exe -f &quot;D:/src/c++/first/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/setup/saas/c++/mingw64/bin/mingw32-make.exe -f &quot;D:/src/c++/first/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/setup/saas/c++/mingw64/bin/mingw32-make.exe -f &quot;D:/src/c++/first/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/src/c++/first/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/setup/saas/c++/mingw64/bin/mingw32-make.exe -f &quot;D:/src/c++/first/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/setup/saas/c++/mingw64/bin/mingw32-make.exe -f &quot;D:/src/c++/first/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/setup/saas/c++/mingw64/bin/mingw32-make.exe -f &quot;D:/src/c++/first/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/setup/saas/c++/mingw64/bin/mingw32-make.exe -f &quot;D:/src/c++/first/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/B.cpp">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/B.h">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/Box.cpp">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/Box.h">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/Ns.cpp">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/Ns.h">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/P.cpp">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/P.h">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/method.cpp">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/method.h">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/say.cpp">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/say.h">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/sig.cpp">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/sig.h">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/su.cpp">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/su.h">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/support.cpp">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/support.h">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/temp.cpp">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/temp.h">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/tt.cpp">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/user.cpp">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/cmake-build-debug/src/user.h">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/main.cpp">
+			<Option target="first"/>
+		</Unit>
+		<Unit filename="D:/src/c++/first/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
